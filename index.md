@@ -3,6 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <title>United States Constitution</title>
+    <link href="css/style.css rel="stylesheet" />
   </head>
 
   <body>
