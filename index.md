@@ -14,7 +14,7 @@
    <nav>
       <ul>
         <li> <a href="preamble">Preamble</li>
-        <li>Articles <a href="articles">Articles </li>
+        <li>Articles <a href="articles">Articles
           <ul>
             <li>I</li>
             <li>II</li>
@@ -25,7 +25,7 @@
             <li>VII</li>
           </ul>
         </li>
-        <li>Amendments <a href="amendments">Amendments </li>
+        <li>Amendments <a href="amendments">Amendments
           <ul>
             <li>I</li>
             <li>II</li>
@@ -117,62 +117,62 @@
 
  <section id="amendments">
         <h2>Amendments</h2>
-
- <article>
+ 
+ <article class="bill-of-rights">
     <h3>Amendment I</h3>
 
    <p>Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances.</p>
         </article>
 
- <article>
+ <article class="bill-of-rights">
           <h3>Amendment II</h3>
 
    <p>A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed.</p>
         </article>
 
- <article>
+ <article class="bill-of-rights">
           <h3>Amendment III</h3>
 
    <p>No Soldier shall, in time of peace be quartered in any house, without the consent of the Owner, nor in time of war, but in a manner to be prescribed by law.</p>
         </article>
 
- <article>
+ <article class="bill-of-rights">
           <h3>Amendment IV</h3>
 
   <p>The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized.</p>
         </article>
 
- <article>
+ <article class="bill-of-rights">
    <h3>Amendment V</h3>
 
    <p>No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a Grand Jury, except in cases arising in the land or naval forces, or in the Militia, when in actual service in time of War or public danger...</p>
         </article>
 
- <article>
+ <article class="bill-of-rights">
     <h3>Amendment VI</h3>
 
  <p>In all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial, by an impartial jury of the State and district wherein the crime shall have been committed, which district shall have been previously ascertained by law, and to be informed of the nature and cause of the accusation...</p>
         </article>
 
- <article>
+ <article class="bill-of-rights">
           <h3>Amendment VII</h3>
 
    <p>In Suits at common law, where the value in controversy shall exceed twenty dollars, the right of trial by jury shall be preserved, and no fact tried by a jury, shall be otherwise re-examined in any Court of the United States, than according to the rules of the common law.</p>
         </article>
 
-   <article>
+   <article class="bill-of-rights">
       <h3>Amendment VIII</h3>
 
    <p>Excessive bail shall not be required, nor excessive fines imposed, nor cruel and unusual punishments inflicted.</p>
         </article>
 
-   <article>
+   <article class="bill-of-rights">
           <h3>Amendment IX</h3>
 
   <p>The enumeration in the Constitution, of certain rights, shall not be construed to deny or disparage others retained by the people.</p>
         </article>
 
-   <article>
+   <article class="bill-of-rights">
           <h3>Amendment X</h3>
 
   <p>The powers not delegated to the United States by the Constitution, nor prohibited by it to the States, are reserved to the States respectively, or to the people.</p>
